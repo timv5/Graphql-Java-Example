@@ -29,8 +29,8 @@ response:
     {
         "data": {
             "getUser": {
-                "id": "asds",
-                "username": "sadsa"
+                "id": "1",
+                "username": "test"
             }
         }
     }
