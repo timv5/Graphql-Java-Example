@@ -1,3 +1,9 @@
+/target
+/ObjectStore
+.idea/
+*.iml
+/tomcat
+
 # Compiled class file
 *.class
 
